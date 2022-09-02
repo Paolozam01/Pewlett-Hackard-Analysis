@@ -6,7 +6,12 @@ The purpose of this analysis was to help Bobby develop different tables which wo
 
 ## Results:
 
+4 major points form the analysis:
 
+* A very large number of titles are eligible to retire at any given time, specially senior engineers and seniors staff. 
+* Only 1940 employees are eligible for the mentorship program. 
+* Due to the small amount of eligible employees for the mentroship program, each mentor would have to be in charge of around 47 employees, which is not sustainable. 
+* The company will have to employ a lot of personal soon since they could have a lot of vacancies at any given moment. 
 
 ## Summary:
 
